@@ -6823,6 +6823,7 @@ public import Mathlib.RingTheory.FormalGroup.Basic
 public import Mathlib.RingTheory.FractionalIdeal.Basic
 public import Mathlib.RingTheory.FractionalIdeal.Extended
 public import Mathlib.RingTheory.FractionalIdeal.Inverse
+public import Mathlib.RingTheory.FractionalIdeal.LocalizedAtPrime
 public import Mathlib.RingTheory.FractionalIdeal.Norm
 public import Mathlib.RingTheory.FractionalIdeal.Operations
 public import Mathlib.RingTheory.FreeCommRing
